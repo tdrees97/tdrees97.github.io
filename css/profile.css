@@ -1,0 +1,11 @@
+.profile-pic {
+	max-width: 60%
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.description {
+  background-image: url("../img/pattern.png");
+}
